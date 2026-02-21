@@ -3,7 +3,7 @@ Equipo de Desarrollo
 Integrantes:
 1. Pendiente
 2. Pendiente
-3. Valeria-backend
+3. Valeria-Backend
 
 Proyecto:
 Aplicación de perfiles del equipo
